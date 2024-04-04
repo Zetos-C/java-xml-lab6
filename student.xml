@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>2</id>
+        <name>Duong Dat ehe</name>
+        <class>IT3</class>
+        <score>3.3</score>
+    </student>
+    <student>
+        <id>1</id>
+        <name>Duong Bao Dat</name>
+        <class>23IT3</class>
+        <score>3.3</score>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Dat day</name>
+        <class>IT3 here</class>
+        <score>3.3</score>
+    </student>
+</students>
